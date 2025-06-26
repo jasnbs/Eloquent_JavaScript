@@ -75,4 +75,10 @@ keting considerations rather than good judgment. When JavaScript was being
  introduced, the Java language was being heavily marketed and was gaining
  popularity. Someone thought it was a good idea to try to ride along on this
  success. Now we are stuck with the name.
- 
+  It would accept almost anything I typed
+ but interpret it in a way that was completely different from what I meant. This
+ had a lot to do with the fact that I did not have a clue what I was doing, of
+ course, but there is a real issue here: JavaScript is ridiculously liberal in what
+ it allows. The idea behind this design was that it would make programming in
+ JavaScript easier for beginners.
+
